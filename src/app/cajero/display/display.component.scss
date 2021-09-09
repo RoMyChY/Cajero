@@ -1,0 +1,14 @@
+:host {
+    .display {
+        background: #ACEABD;
+        height: 500px;
+
+        &_userInfo {
+            background: #6088DC;
+        }
+
+        &_salida {
+            background: #DCA060;
+        }
+    }
+}
